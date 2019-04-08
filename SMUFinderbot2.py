@@ -13,7 +13,7 @@ import datetime, time
 #official bot token = '759354007:AAHq7todh18OVx0VVlMSAmplOtaBlQiE7wc'
 #testing bot token = '827622553:AAH0ImyAKLVUlaXeMbGwrmifRYqlPJ1c5cE'
 
-my_token = '827622553:AAH0ImyAKLVUlaXeMbGwrmifRYqlPJ1c5cE' # put your secret Telegram token here 
+my_token = '738578681:AAHX5B7AwECaKBxNaHr90MsWYtydJzGo6J0' # put your secret Telegram token here 
 url_base = 'https://api.telegram.org/bot{}/'.format(my_token)
 
 smufinder_url_base = 'https://smufinderapi.herokuapp.com/'
